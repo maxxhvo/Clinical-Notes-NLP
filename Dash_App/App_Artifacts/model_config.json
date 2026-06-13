@@ -1,0 +1,8 @@
+{
+    "embedding_model": "emilyalsentzer/Bio_ClinicalBERT",
+    "section": "medication_reconciliation",
+    "threshold": 0.21164625883102417,
+    "target_recall": 0.7,
+    "precision": 0.29080675422138835,
+    "recall": 0.7013574660633484
+}

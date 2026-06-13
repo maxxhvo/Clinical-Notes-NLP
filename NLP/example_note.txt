@@ -1,0 +1,384 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Quinine / Sulfa (Sulfonamide Antibiotics) / codeine / morphine / 
+ibuprofen / propranolol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+bilateral ankle pain and swelling (R>L)
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ community-dwelling woman w/ HFpEF,
+HTN, CKD III, DM2, secondary adrenal insufficiency (on
+prednisone), and recurrent gout with two prior admission this
+year for gout flares, who presents with fever and ankle pain. 
+
+She was recently admitted here with a UTI and ischemic colitis;
+during that admission, she had trouble keeping up adequate PO
+intake and her home torsemide 10 mg was held at discharge. This
+was restarted ten days ago in the outpatient clinic, and she has
+yet to follow up for a reassessment after starting the loop
+diuretic.
+
+On the day of presentation, she awoke with severe pain in her
+bilateral ankles and feet, with the R ankle visibly more swollen
+than usual. She found herself unable to bear weight. Called EMS,
+who found her febrile to 102.7, but quite alert and cogent, and
+asymptomatic other than the foot and ankle pain.
+
+In our ED, vitals were stable other than Tmax of 102.2 and
+transient hypertension likely attributable to her pain. Labs 
+were
+most notable for magnesium of 1.3 and a mixed metabolic
+alkalosis/anion gap acidosis (with normal lactate). Preliminary
+infectious workup, including a UA and a CXR were unremarkable 
+and
+the exam was not felt to be suggestive of a soft tissue
+infection.
+
+She was not treated for possible gout flare because she reported
+to the ED physician that these are not her typical joints that
+are symptomatic when her gout flares. As she was not septic
+(other than the fever) and there was no clear source of
+infection, she was not given antibiotics either. She was given
+IVF and magnesium repletion, then admitted to medicine for
+further management.
+
+ 
+Past Medical History:
+HFpEF (LVEF 60-65%, mild concentric LVH, neg stress in ___
+CKD III (baseline Cr 0.8-1.0)
+HTN
+T2DM (not on insulin)
+Asthma
+Secondary adrenal insufficiency (last AM cortisol 1.1 
+[6.2-19.4]@0730 on ___
+Diverticulosis
+Gastritis/duodenitis
+GERD
+Fibroid
+Gout
+DJD of left knee s/p TKR on ___ at ___
+Cataract right eye (now blind)
+Glaucoma
+Meralgia Paresthetica
+Mediastinal mass: VATS with biopsy showed benign ___ at ___
+ 
+Social History:
+___
+Family History:
+Positive for hypertension and T2DM in multiple family members. 
+Sister with leukemia.
+ 
+Physical Exam:
+CONSTITUTIONAL: charming elderly woman in NAD. Appears younger
+than stated age.
+EYE: sclerae anicteric, EOMI
+ENT: audition grossly intact, MMM, OP clear. Poor dentition
+LYMPHATIC: No LAD
+CARDIAC: RRR, no M/R/G, JVP not elevated, no edema
+PULM: normal effort of breathing, LCAB
+GI: soft, NT, ND, NABS
+GU: no CVA tenderness, suprapubic region soft and nontender
+MSK: R>L ankle swollen but no longer warm. Full, active ROM in
+both ankles
+DERM: Poor skin turgor. Venous stasis changes.
+NEURO: AAOx3.  slight r  eye droop, moving all extremities.
+PSYCH: Full range of affect
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 11:55AM BLOOD WBC: 10.4* RBC: 3.65* Hgb: 10.7* Hct: 
+35.2
+MCV: 96 MCH: 29.3 MCHC: 30.4* RDW: 17.4* RDWSD: 62.2* Plt Ct: 
+257
+
+___ 11:55AM BLOOD Glucose: 122* UreaN: 10 Creat: 1.1 Na: 
+143
+K: 4.0 Cl: 97 HCO3: 23 AnGap: 23* 
+___ 11:55AM BLOOD ALT: 7 AST: 29 AlkPhos: 64 TotBili: 0.6 
+___ 11:55AM BLOOD Albumin: 4.2 Calcium: 9.6 Phos: 2.3* Mg:
+1.3* 
+___ 12:07PM BLOOD Lactate: 1.6 
+
+ANKLE AND FOOT X-RAYS ___
+Increased soft tissue swelling and ankle joint effusion of the
+right ankle. No significant interval change in the appearance of
+the osseous structures of the right ankle.  
+No acute fracture of the left ankle. 
+
+CXR
+Mild bibasilar atelectasis without definite focal consolidation. 
+
+Mild cardiomegaly. 
+
+DISCHARGE LABS:
+Labs:
+___ 05:18AM BLOOD WBC: 7.7 RBC: 3.37* Hgb: 9.8* Hct: 31.8*
+MCV: 94 MCH: 29.1 MCHC: 30.8* RDW: 16.8* RDWSD: 57.9* Plt Ct: 
+252
+___ 05:18AM BLOOD UreaN: 13 Creat: 1.0 
+___: 5.7
+
+ 
+Brief Hospital Course:
+Mrs. ___ is a ___ community-dwelling woman w/ HFpEF,
+HTN, CKD III, DM2, secondary adrenal insufficiency (on
+prednisone), and recurrent gout with two prior admission this
+year for gout flares, who presents with fever and ankle pain -
+likely consistent with another gout flare. 
+
+#OLIGOARTICULAR GOUT FLARE
+#FEVERS (resolved)
+#ANKLE PAIN WITH INABILITY TO WALK
+   Patient presented with high fevers but not otherwise septic
+and with acute pain the bilateral feet and ankles, especially 
+the
+right ankle, which had an effusion and was warm to the touch. 
+The
+patient reports that this is not usually a joint that is 
+involved
+when her gout flares, but POC US shows extensive tophus within
+the ankle joint, demonstrating chronic gouty arthropathy in this
+location. Thus, this presentation IS very likely a gout flare.
+The acute precipitant of gout is likely her torsemide. This was
+held at last discharge due to an observed tendency to become
+hypovolemic, but the medication was restarted ten days ago by
+outpatient providers. On arrival she was quite hypovolemic and
+has also required significant Mg and K repletion, suggesting too
+much loop diuretic. 
+- colchicine for acute gout flare. 
+- PRN Tylenol for pain. No NSAIDs given dx of heart failure. 
+- ___ eval - ___ recommending rehab. Pt would prefer home if
+possible. Has home ___ set up already. 
+- follow up pan-cultures sent for the ED for fever workup. BCx 
+no
+far showing no growth. 
+- started pred 20 daily for oligoarticular attack with taper in
+rheum note
+
+#CHRONIC GOUT MANAGEMENT
+#CHRONIC DIASTOLIC HEART FAILURE
+#ESSENTIAL HYPERTENSION
+#HISTORY OF POSSIBLE STABLE ANGINA
+Unfortunately this is her third hospitalization for gout this
+year. Gout flares prevent her from being able to function more 
+or
+less independently as she usually does and are causing
+significant debility. She is on numerous cardiac medications 
+that
+make it hard to manage her gout, and I discussed changing her
+medications with her PCP and cardiologist (___) by email on 
+the
+last admission. Everyone agreed that my changes seemed
+reasonable, but by the time we got the final OK from cardiology,
+she had already been sent to rehab and the plan was deferred,
+then ultimately never executed. 
+As such, will make extensive medication changes as follows:
+- continue allopurinol ___ mg daily; outstanding issue to
+increase as tolerated as an outpatient to a goal of serum uric
+acid <6 (last uric acid was 7.3). obtaining UA in AM. 
+- started colchicine (full dose for a few days for the acute
+flare, then renal dosing at 0.3 mg daily chronically for ppx )
+- stopped diltiazem, which is a strong inhibitor of colchicine
+metabolism, and makes it impossible to prescribe this medication
+safely in a patient who also has CKD. 
+- In place of diltiazem will start amlodipine 2.5 mg daily and
+losartan 50 mg daily; she should be on ___ for her diabetic
+nephropathy (and losartan is the best one for gout), but I feel
+she is too frail to tolerate a big dose, so I went with two
+different meds, both at a low dose.
+- stopped torsemide 10 mg daily. Her PO intake seems to be
+declining as she becomes increasingly geriatric and it is now 
+too
+much for her. 
+- c/t prednisone 20 mg per rheum recs
+
+#ADRENAL INSUFFICIENCY
+- pred 5 mg increased to 20 mg I/s/o acute gout flare
+
+#GLAUCOMA
+- continue Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+
+- continue Pilocarpine 4% 1 DROP BOTH EYES Q6H  
+
+#COMPRESSION FRACTURE WITH PRESUMED OSTEOPOROSIS
+- started vitamin D
+- outstanding issue to consider bisphosphonate therapy
+
+#NIDDM2
+- on glipizide at home
+- requiring weight based insulin here. 
+
+#CODE: DNR/DNI per MOLST
+
+OUTSTANDING ISSUES:
+[ ] Recurrent tophaceous gout I/s/o torsemide use: 
+- allopurinol increased from 150 mg to 200 mg while hospitalized 
+by rheumatology consult team. 
+- Pt started on colchicine which she can continue at 0.6 mg 
+daily while titrating prednisone
+- Continue prednisone 20mg daily for 2 more days, 15mg daily x 3
+days, 10mg daily x 3 days, 7.5mg daily x 3 days, then 5mg daily
+(and continue on this dose until rheumatology follow up)
+- While on prednisone pt developed some hyperglycemia requiring 
+insulin. Would increase glipizide to 5 mg BID and start 
+metformin 500 mg BID, which can be uptitrated at outpatient PCP 
+___. 
+- has rheum follow up at ___ for uptitration of allopurinol
+
+[ ] Chronic heart failure management:  
+- In place of diltiazem will start amlodipine 2.5 mg daily and
+losartan 50 mg daily; she should be on ___ for her diabetic
+nephropathy (and losartan is the best one for gout), but I feel
+she is too frail to tolerate a big dose, so I went with two
+different meds, both at a low dose.
+- stopped torsemide 10 mg daily. Her PO intake seems to be
+declining as she becomes increasingly geriatric and it is now 
+too
+much for her. 
+
+[ ]COMPRESSION FRACTURE WITH PRESUMED OSTEOPOROSIS
+- started vitamin D
+- outstanding issue to consider bisphosphonate therapy
+
+>30 minutes spent on discharge planning including face to face 
+time
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+2. Albuterol Inhaler 1 PUFF IH Q6H:PRN dyspnea 
+3. Allopurinol ___ mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. Docusate Sodium 100 mg PO DAILY 
+6. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+7. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+8. Lidocaine 5% Patch 1 PTCH TD DAILY 
+9. Omeprazole 20 mg PO DAILY 
+10. Pilocarpine 4% 1 DROP BOTH EYES Q6H 
+11. Polyethylene Glycol 17 g PO DAILY 
+12. PredniSONE 5 mg PO DAILY 
+13. Senna 8.6 mg PO QHS 
+14. Diltiazem Extended-Release 180 mg PO DAILY 
+15. GlipiZIDE XL 2.5 mg PO DAILY 
+16. Torsemide 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 2.5 mg PO DAILY 
+RX *amlodipine 2.5 mg 1 tablet(s) by mouth once daily Disp #*30 
+Tablet Refills:*0 
+2.  Colchicine 0.6 mg PO DAILY 
+RX *colchicine 0.6 mg 1 capsule(s) by mouth every day Disp #*30 
+Capsule Refills:*0 
+3.  Losartan Potassium 25 mg PO DAILY 
+RX *losartan 25 mg 1 tablet(s) by mouth once daily Disp #*30 
+Tablet Refills:*0 
+4.  PredniSONE 20 mg PO DAILY Duration: 2 Doses 
+Start: Tomorrow - ___, First Dose: 0800 
+increase your glipizide to 2 pills daily while taking prednisone 
+
+This is dose # 1 of 4 tapered doses
+RX *prednisone [Deltasone] 20 mg 1 tablet(s) by mouth daily Disp 
+#*2 Tablet Refills:*0 
+5.  PredniSONE 15 mg PO DAILY Duration: 3 Doses 
+Start: After 20 mg DAILY tapered dose 
+increase your glipizide to 2 pills daily while taking prednisone 
+
+This is dose # 2 of 4 tapered doses
+RX *prednisone 5 mg 3 tablet(s) by mouth daily Disp #*9 Tablet 
+Refills:*0 
+6.  PredniSONE 10 mg PO DAILY Duration: 3 Doses 
+Start: After 15 mg DAILY tapered dose 
+increase your glipizide to 2 pills daily while taking prednisone 
+
+This is dose # 3 of 4 tapered doses
+RX *prednisone 10 mg 1 tablet(s) by mouth daily Disp #*3 Tablet 
+Refills:*0 
+7.  PredniSONE 7.5 mg PO DAILY Duration: 3 Doses 
+Start: After 10 mg DAILY tapered dose 
+increase your glipizide to 2 pills daily while taking prednisone 
+
+This is dose # 4 of 4 tapered doses
+RX *prednisone 2.5 mg 3 tablet(s) by mouth daily Disp #*9 Tablet 
+Refills:*0 
+8.  PredniSONE 5 mg PO DAILY 
+Start: After last tapered dose completes 
+increase your glipizide to 2 pills daily while taking prednisone 
+
+This is the maintenance dose to follow the last tapered dose
+RX *prednisone 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+9.  Allopurinol ___ mg PO DAILY 
+RX *allopurinol ___ mg 2 tablet(s) by mouth once daily Disp #*60 
+Tablet Refills:*0 
+10.  GlipiZIDE XL 5 mg PO DAILY 
+RX *glipizide [Glucotrol XL] 2.5 mg 2 tablet(s) by mouth once 
+daily Disp #*24 Tablet Refills:*0 
+11.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+12.  Albuterol Inhaler 1 PUFF IH Q6H:PRN dyspnea  
+13.  Aspirin 81 mg PO DAILY  
+14.  Docusate Sodium 100 mg PO DAILY  
+15.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+16.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+17.  Lidocaine 5% Patch 1 PTCH TD DAILY  
+18.  Omeprazole 20 mg PO DAILY  
+19.  Pilocarpine 4% 1 DROP BOTH EYES Q6H  
+20.  Polyethylene Glycol 17 g PO DAILY  
+21.  Senna 8.6 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute oligoarticular gout flare of the ankles
+ 
+Discharge Condition:
+stable
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted to the hospital because of a gout flare in 
+your ankle joints. We increased your allopurinol to 200 mg daily 
+and started you on a preventative medication called colchicine 
+at 0.6 mg daily. We also started you on a prednisone taper. 
+While you are on the taper, you will have to take more diabetes 
+medications as this can increase your sugars. Please follow up 
+with your PCP and rheumatologist so they can further titrate 
+your diabetes and gout medications.
+
+For your heart failure, we are stopping torsemide as it may have 
+caused you to become dehydrated and triggered your gout flare. 
+For your blood pressure, we are stopping your diltiazem which 
+can cause gout flares and switching to amlodipine and losartan. 
+
+Thank you for entrusting us in your care, 
+Your BI team.  
+ 
+Followup Instructions:
+___
