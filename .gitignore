@@ -1,2 +1,9 @@
-*.db
 /private
+
+# Embedding artifacts
+*.npz
+*.npy
+
+# DuckDB
+*.db
+*.wal
